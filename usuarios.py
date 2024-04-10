@@ -1,4 +1,4 @@
-# usuarios.py
+
 
 # Definindo a classe para representar um usuário do sistema
 class Usuario:
